@@ -1,4 +1,4 @@
-Step1: Download and Install Docker from https://www.docker.com/
+giStep1: Download and Install Docker from https://www.docker.com/
 NOTE: MAKE SURE TO INSTALL DOCKER VERSION GREATER THAN OR EQUAL TO 20.10.12 AND TO CHECK DOCKER VERSION GO TO CMD TERMINAL AND TYPE "docker -- version"
 
 Step2: Download and Install GCloud SDK from https://cloud.google.com/sdk/docs/install
@@ -6,7 +6,7 @@ Step2: Download and Install GCloud SDK from https://cloud.google.com/sdk/docs/in
 step3: Steps to create Gcloud Project
       a. Visit https://console.cloud.google.com/
       b. Login to Google Cloud Platform with a personal email ID. Do not use your hawk email ID as this would restrict configurations in further steps. 
-      c. Create a new project
+      c. Create a new project 
       d. Create a project named "flaskworldapp1" and navigate to your newly generated project dashboard.
       
 Step 4: To deploy application to gcloud platform:
